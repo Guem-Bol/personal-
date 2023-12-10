@@ -1,0 +1,61 @@
+
+nav {
+
+    text-align: center ;
+    text-decoration: solid wheat;
+    font-size: 2em;
+    line-height: 3em;
+    border:  solid lightblue;
+
+
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(48, 96, 167);
+}
+
+
+.header{
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+
+nav a {
+    padding:1em;
+    min-width: 130px;
+    padding: 10px;
+    color: white;
+    text-decoration: dashed;
+  
+}
+
+
+.on img{
+
+    margin-top: 17%;
+}
+
+.sociallinks{
+
+    width: 80%;
+    min-height: fit-content;
+    height: 80%;
+}
+
+
+.on p{
+
+    font-size: 2rem;
+    color: aliceblue;
+    font-style: italic;
+}
+

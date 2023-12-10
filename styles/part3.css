@@ -1,0 +1,33 @@
+.in {
+
+    text-align: center;
+    text-decoration: dashed;
+    text-decoration-color: black;
+    border: solid gold;
+    font-size: 2em;
+}
+
+
+.hero img{
+
+    width: 34%;
+}
+
+body{
+
+    background-color: rgb(200, 200, 86);
+}
+
+nav a {
+    padding:1em;
+    min-width: 130px;
+    padding: 10px;
+    color: white;
+    text-decoration: dashed;
+  
+}
+.on p {
+
+    font-size: larger;
+    color: solid yellow;
+}
